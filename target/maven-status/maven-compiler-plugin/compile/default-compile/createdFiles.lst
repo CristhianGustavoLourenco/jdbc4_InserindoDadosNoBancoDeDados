@@ -1,0 +1,3 @@
+com\mycompany\jdbc1\jdbc3_InserindoDadosNoBancoDeDados.class
+db\DB.class
+db\DbException.class
